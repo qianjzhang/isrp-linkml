@@ -7,7 +7,7 @@ email: my-name@my-org.org
 full_name: My Name
 gh_action_docs_preview: true
 gh_action_pypi: true
-github_org: my-org
+github_org: isrp
 license: MIT
 project_description: This is the project description.
 project_name: isrp-linkml
